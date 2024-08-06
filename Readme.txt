@@ -1,3 +1,10 @@
+-программирование в генной инженерии
+-мутагенез
+-вирусология
+-генетические мутации
+
+
+
 Thanks for downloading this template!
 
 Template Name: Medicio
